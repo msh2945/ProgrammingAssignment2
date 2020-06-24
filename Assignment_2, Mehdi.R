@@ -1,5 +1,5 @@
 
-#################### Making a Matrics that can cash its invers ##########
+#################### Making a Matrics that can cash its invers ####################
 
 
 makeCacheMatrix <- function(x = matrix()) {
